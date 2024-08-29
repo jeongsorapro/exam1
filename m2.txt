@@ -1,10 +1,2 @@
-두번째 마스터 문서입니다.
-마스터2
-마스터2
-길동이가 두번째로 수정합니다.
-aaa
-bbb
-ccc
-길동이가 네번째로 수정합니다.
-dfff
-diff
+바다가 수정하는 부분입니다.
+badabadabadabadabadabada
